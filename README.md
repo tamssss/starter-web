@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
- THIS IS EXAMPLE
+ THIS IS EXAMPLE.. another example
 
 ## Purpose
  NO PURpose just live ur life
