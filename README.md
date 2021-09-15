@@ -10,3 +10,9 @@ Sample website with plenty of files for demos
 
 ##DEPLOYMent
 noobb
+
+
+
+
+### COPYRIGHT
+2021 training
