@@ -20,4 +20,4 @@ noobb
 
 
 ### COPYRIGHT
-2021 training
+2021 training . all right
