@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
  THIS IS EXAMPLE
 
 ## Purpose
- NO PURpose
+ NO PURpose just live ur life
 
 Sample website with plenty of files for demos
 
